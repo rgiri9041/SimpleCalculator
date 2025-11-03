@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator
+package np.com.rajkumargiri.calculator
 
 import org.junit.Test
 

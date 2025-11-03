@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "np.com.bimalkafle.calculator"
+    namespace = "np.com.rajkumargiri.calculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "np.com.bimalkafle.calculator"
+        applicationId = "np.com.rajkumargiri.calculator"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

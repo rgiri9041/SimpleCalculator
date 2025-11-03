@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator.ui.theme
+package np.com.rajkumargiri.calculator.ui.theme
 
 import android.app.Activity
 import android.os.Build

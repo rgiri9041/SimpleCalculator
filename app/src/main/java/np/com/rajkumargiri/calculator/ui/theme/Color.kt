@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator.ui.theme
+package np.com.rajkumargiri.calculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

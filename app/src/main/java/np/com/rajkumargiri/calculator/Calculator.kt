@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator
+package np.com.rajkumargiri.calculator
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column

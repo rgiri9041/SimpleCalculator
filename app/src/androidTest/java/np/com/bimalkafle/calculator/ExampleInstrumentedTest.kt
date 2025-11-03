@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator
+package np.com.rajkumargiri.calculator
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("np.com.bimalkafle.calculator", appContext.packageName)
+        assertEquals("np.com.rajkumargiri.calculator", appContext.packageName)
     }
 }

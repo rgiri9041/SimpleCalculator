@@ -1,4 +1,4 @@
-package np.com.bimalkafle.calculator
+package np.com.rajkumargiri.calculator
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -12,7 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.ViewModelProvider
-import np.com.bimalkafle.calculator.ui.theme.CalculatorTheme
+import np.com.rajkumargiri.calculator.ui.theme.CalculatorTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
